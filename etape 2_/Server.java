@@ -40,6 +40,6 @@ public class Server extends Thread{
 		// TODO Auto-generated method stub
 		new Server().start();
 
-}
-	
 	}
+	
+}
